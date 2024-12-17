@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hallo 123
+=======
+hallo 12345
+>>>>>>> adfa1796144f7b329a13d300b591ebf99e922a96
+asdsa
